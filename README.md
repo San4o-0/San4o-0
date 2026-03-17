@@ -3,7 +3,7 @@
 💫 About Me:
 I'm a Computer Science student with a strong passion for technology. I love to code and bring ideas to life. My interests bridge logic and creativity, focusing on programming, 3D modeling, and game development. I'm always eager to learn and build cool stuff!
 
-💻 Tech Stack:
+💻 Tech Stack:<br>
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
