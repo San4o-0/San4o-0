@@ -15,3 +15,4 @@ I'm a Computer Science student with a strong passion for technology. I love to c
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine)
 ![Figma](https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
