@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header" width="100%" alt="banner" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sasha+%F0%9F%91%8B" alt="Hi, I'm Sasha 👋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=B0C4DE&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sasha+%F0%9F%91%8B" alt="Hi, I'm Sasha 👋" />
 </div>
 
 ## 💫 About Me:
